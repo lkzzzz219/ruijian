@@ -1,0 +1,15 @@
+﻿# 环境与密钥
+.env
+*.key
+
+# Python 缓存与虚拟环境
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# 系统文件
+Thumbs.db
+.DS_Store
